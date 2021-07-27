@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Test2 {
+public class test2 {
 
     private static void swap(char[] e, int a, int b) {
         char tmp = e[a];
