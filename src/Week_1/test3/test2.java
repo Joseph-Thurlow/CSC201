@@ -1,3 +1,5 @@
+package Week_1.test3;
+
 import java.util.*;
 
 public class test2 {

@@ -1,4 +1,4 @@
-package test3;
+package Week_1.test3;
 
 import java.util.LinkedList;
 import java.util.Queue;

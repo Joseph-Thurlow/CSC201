@@ -1,3 +1,5 @@
+package Week_1.test3;
+
 import java.util.LinkedHashMap;
 
 public class test4 {
@@ -17,7 +19,7 @@ public class test4 {
     }
 
     public static void main(String[ ] args) {
-        String input = "This is a test String to test if the String counter works.";
+        String input = "This is a Week_1.test3.test String to Week_1.test3.test if the String counter works.";
         repeatCount(input);
     }
 
